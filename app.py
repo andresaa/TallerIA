@@ -104,4 +104,4 @@ with gr.Blocks() as demo:
     feedback_output = gr.Textbox(label="Estado")
     btn_feedback.click(fn=feedback, inputs=[input_text, corrected_emotion], outputs=feedback_output)
 
-demo.launch()
+demo.launch(server_port=8080, share=True)
