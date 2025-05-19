@@ -54,10 +54,10 @@ data = {
         'No puedo creer que hayan cancelado a última hora',
         'Me irrita profundamente su actitud prepotente',
         'Estoy cansado de repetir las mismas instrucciones',
-        "Es inútil pedirle algo",
-        "Porqué dices eso si no hice nada malo?",
-        "Que fastidio, todos los días se va la luz",
-        "Que raro, no? Siempre la misma contigo",
+        'Es inútil pedirle algo',
+        'Porqué dices eso si no hice nada malo?',
+        'Que fastidio, todos los días se va la luz',
+        'Que raro, no? Siempre la misma contigo',
         'No logro completar esto',
         
         # Tristeza
@@ -126,6 +126,7 @@ data = {
         # Tristeza (10)
         'tristeza', 'tristeza', 'tristeza', 'tristeza', 'tristeza',
         'tristeza', 'tristeza', 'tristeza', 'tristeza', 'tristeza',
+        'tristeza', 'tristeza',
         
         # Sarcasmo - clasificado como enojo (10)
         'enojo', 'enojo', 'enojo', 'enojo', 'enojo',
