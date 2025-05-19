@@ -31,6 +31,17 @@ data = {
         'Por fin terminé mi proyecto y quedó perfecto',
         'Qué felicidad me da verte después de tanto tiempo',
         'Conseguí el trabajo de mis sueños',
+        'Pasé un momento agradable con mi nueva familia',
+        'Me encanta el helado',
+        'Saber que estás aquí es lo mejor que me pudo pasar',
+        'Me encantó salir de viaje con ustedes',
+        'El sol de la mañana me permite recargar mi dia',
+        'Ya casi vacaciones',
+        'Faltan dos semanas para acabar el semestre',
+        'Voy a ser papá',
+        'Muy bien hecho',
+        'era justo lo que quería',
+        'por fin pude acabar todos mis pendientes',
         
         # Enojo
         'Odio cuando las cosas no salen como quiero',
@@ -43,6 +54,11 @@ data = {
         'No puedo creer que hayan cancelado a última hora',
         'Me irrita profundamente su actitud prepotente',
         'Estoy cansado de repetir las mismas instrucciones',
+        "Es inútil pedirle algo",
+        "Porqué dices eso si no hice nada malo?",
+        "Que fastidio, todos los días se va la luz",
+        "Que raro, no? Siempre la misma contigo",
+        'No logro completar esto',
         
         # Tristeza
         'Hoy me siento triste y solo',
@@ -55,6 +71,8 @@ data = {
         'Me siento vacío desde que te fuiste',
         'Cada día es más difícil sin ti a mi lado',
         'Lloro cada vez que recuerdo lo que pasó',
+        'me hace falta mi perro',
+        'No puedo con más',
         
         # Sarcasmo - Alegría (pero realmente expresan otras emociones)
         'Vaya, qué alegría, me han cancelado los planes por quinta vez',
@@ -97,8 +115,11 @@ data = {
         # Alegría (10)
         'alegria', 'alegria', 'alegria', 'alegria', 'alegria',
         'alegria', 'alegria', 'alegria', 'alegria', 'alegria',
+        'alegria', 'alegria', 'alegria', 'alegria', 'alegria',
+        'alegria', 'alegria', 'alegria', 'alegria', 'alegria', 'alegria',
         
         # Enojo (10)
+        'enojo', 'enojo', 'enojo', 'enojo', 'enojo',
         'enojo', 'enojo', 'enojo', 'enojo', 'enojo',
         'enojo', 'enojo', 'enojo', 'enojo', 'enojo',
         
